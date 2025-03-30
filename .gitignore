@@ -34,3 +34,6 @@ Thumbs.db
 
 # Archivos de compilacion de Docker
 *.tar
+
+#Variables de entorno
+.env
